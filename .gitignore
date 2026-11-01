@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.ionic/
+.env
+.DS_Store
+coverage/

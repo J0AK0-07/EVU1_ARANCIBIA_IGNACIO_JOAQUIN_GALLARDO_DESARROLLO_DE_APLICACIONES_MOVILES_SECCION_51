@@ -1,0 +1,1 @@
+Esta carpeta se completa con capturas autenticas de Ionic funcionando en el equipo del estudiante. No se incluyen imagenes generadas o simuladas como evidencia. Consultar PRUEBAS_Y_EVIDENCIAS.md.
